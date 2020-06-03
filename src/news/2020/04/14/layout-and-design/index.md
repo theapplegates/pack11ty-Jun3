@@ -32,5 +32,4 @@ alt="">
 
 
 
-<img 
- src="https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto:good,g_auto,ar_16:9,c_fill/c_scale,w_auto:breakpoints/v1591033140/11ty/Polics-George-Floyd.jpg"  </img>
+<img src="https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto:good,g_auto,ar_16:9,c_fill/c_scale,w_auto:breakpoints/v1591033140/11ty/Polics-George-Floyd.jpg"</img>
