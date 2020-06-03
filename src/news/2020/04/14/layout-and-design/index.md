@@ -28,3 +28,13 @@ castle_c_scale,w_1327.jpg 1327w,
 castle_c_scale,w_1400.jpg 1400w"
 src="castle_c_scale,w_1400.jpg"
 alt="">
+
+
+
+<html>
+<head>
+<img 
+ src="https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto:good,g_auto,ar_16:9,c_fill/c_scale,w_auto:breakpoints/v1591033140/11ty/Polics-George-Floyd.jpg"/> 
+</body>
+</head>
+</html>
