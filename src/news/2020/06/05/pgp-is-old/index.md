@@ -2,8 +2,8 @@
 title: PGP is getting old
 date: 2020-06-05T21:50:09+00:00
 ---
-<img 
-   data-src="https://res.cloudinary.com/paulportfolio/image/upload/w_auto,c_scale,q_auto,f_auto,dpr_auto /v1591394103/matrix-image.jpg"
+<img
+   data-src="https://res.cloudinary.com/paulportfolio/image/upload/w_auto,c_scale,q_auto,f_auto,dpr_auto/v1591394103/matrix-image.jpg"
 alt=""
 class="cld-responsive" />
 
@@ -20,20 +20,7 @@ Age Public Key
 
 <pre><code>public key: age19eyljfzyhly22spyjnmw6u0zpemz62e95625umgxmp3ft27zs4esgmh90a</code></pre>
 
-<img 
-   data-src="https://res.cloudinary.com/paulportfolio/image/upload/w_auto,c_scale,q_auto,f_auto,dpr_auto /v1575916808/Signature/Paul-Applegate-blog-maybe-last.png"
-alt=""
-class="cld-responsive" />
-
-
 <img
-data-src="https://res.cloudinary.com/paulportfolio/image/upload/w_auto,c_scale,q_auto,f_auto,dpr_auto/v1591390043/wordpress/pack11ty-screenshot.png"
-alt=""
-class="cld-responsive" />
-
-
-
-<img
-data-src="https://res.cloudinary.com/paulportfolio/image/upload/w_auto,c_scale,q_auto,f_auto,dpr_auto/v1590105301/respimg/7374F7DD-610A-4006-A5D8-D8BA56698933.jpg"
+   data-src="https://res.cloudinary.com/paulportfolio/image/upload/w_auto,c_scale,q_auto,f_auto,dpr_auto/v1575916808/Signature/Paul-Applegate-blog-maybe-last.png"
 alt=""
 class="cld-responsive" />
