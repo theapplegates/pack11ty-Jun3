@@ -1,4 +1,6 @@
 // Get additional CSS for Rollup
+const cl = cloudinary.Cloudinary.new({ cloud_name: 'paulportfolio' })
+cl.responsive()
 import '../sass/additional.scss';
 
 // Add horizontal scroll to overflowing content tables

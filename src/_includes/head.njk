@@ -10,6 +10,8 @@
 {% include_raw config.dir.dist + "/js/" + hashes_critical[config.dir.src + '/_assets/js/critical.js'] %}
 {% endset %}
 <script>{{ criticalJs | replace('//# sourceMappingURL=', '//# sourceMappingURL=/js/') | safe }}</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cloudinary-core/2.3.0/cloudinary-core-shrinkwrap.min.js">
+</script>
 
 {% block title %}
   {% if page.url == '/' %}
@@ -46,7 +48,7 @@
 <link rel="icon" type="image/jpeg" href="/images/logo-192px.png" />
 
 {# ########################################################
- # opengraph and Twitter 
+ # opengraph and Twitter
  # ########################################################}
 <meta property="og:site_name" content="{{ pkg.name }}" />
 <meta name="twitter:creator" content="@{{ pkg.author.twitter }}" />
