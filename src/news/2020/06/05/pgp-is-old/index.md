@@ -24,3 +24,16 @@ Age Public Key
    data-src="https://res.cloudinary.com/paulportfolio/image/upload/w_auto,c_scale,q_auto,f_auto,dpr_auto /v1575916808/Signature/Paul-Applegate-blog-maybe-last.png"
 alt=""
 class="cld-responsive" />
+
+
+<img
+data-src="https://res.cloudinary.com/paulportfolio/image/upload/w_auto,c_scale,q_auto,f_auto,dpr_auto/v1591390043/wordpress/pack11ty-screenshot.png"
+alt=""
+class="cld-responsive" />
+
+
+
+<img
+data-src="https://res.cloudinary.com/paulportfolio/image/upload/w_auto,c_scale,q_auto,f_auto,dpr_auto/v1590105301/respimg/7374F7DD-610A-4006-A5D8-D8BA56698933.jpg"
+alt=""
+class="cld-responsive" />
