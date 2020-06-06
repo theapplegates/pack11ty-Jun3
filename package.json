@@ -3,21 +3,21 @@
   "version": "1.0.0-alpha.6",
   "title": "Pack11ty",
   "description": "an heavily opinionated Eleventy template project",
-  "url": "https://pack11ty.dev/",
+  "url": "https://my11pack-walking-man-227d.netlify.app/",
   "author": {
-    "name": "Nicolas Hoizey",
-    "email": "nicolas@hoizey.com",
-    "url": "https://nicolas-hoizey.com/",
-    "twitter": "nhoizey",
-    "facebook": "nhoizey"
+    "name": "Paul Applegate",
+    "email": "me@paulapplegate.com",
+    "url": "https://paulapplegate.com/",
+    "twitter": "papplegage",
+    "facebook": ""
   },
-  "homepage": "https://github.com/nhoizey/pack11ty#readme",
+  "homepage": "https://github.com/theapplegates/pack11ty-Jun3#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nhoizey/pack11ty.git"
+    "url": "git+https://github.com/theapplegates/pack11ty-Jun3.git"
   },
   "bugs": {
-    "url": "https://github.com/nhoizey/pack11ty/issues"
+    "url": "https://github.com/theapplegates/pack11ty-Jun3/issues"
   },
   "license": "MIT",
   "scripts": {
