@@ -5,7 +5,7 @@ date: 2020-06-17T23:18:31+00:00
 LGBTQ persons are now protected by Title VII of the Civil Rights Act of 1964.
 
 A great day for equal rights.
-The United States Supreme Court [ruled](https://www.supremecourt.gov/opinions/19pdf/17-1618_hfci.pdf) today that LGBTQ persons are protected by Title VII of the Civil Rights Act of 1964. Short and sweet. Glad to see the lsw catching up with society.
+The United States Supreme Court [ruled](https://www.supremecourt.gov/opinions/19pdf/17-1618_hfci.pdf) today that LGBTQ persons are protected by Title VII of the Civil Rights Act of 1964. Short and sweet. Glad to see the law catching up with society.
 
 <img
    data-src="https://res.cloudinary.com/paulportfolio/image/upload/w_auto,c_scale,q_auto,f_auto,dpr_auto/v1592436235/11ty/F2E08053-8CB7-441A-9EDF-2D59C38677BC.jpg"
