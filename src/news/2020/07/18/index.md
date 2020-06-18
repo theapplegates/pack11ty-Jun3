@@ -30,4 +30,20 @@ Now for the even better part. If you use Cloudinary's javascript library and cha
 So now let's say I have a 3MB image that is crazy large 4000x2500 pixels. On a desktop that will display as a 1.5MB image but still 4000x2500 pixels. If an iPhone visits your site it is fine to serve a smaller pic at 500KB but not cool to send it with the same dimensions as the desktop, 4000x2500. 
 Using javascript Cloudinary can see the exact dimensions or limits you want the image to conform to and adjusts the image to fit exactly how you wanted it. You can even rotate your iPhone and a larger picture will update to your larger screen size.
 
+Here is an example 3MB image of a Ferrari. It is 4961x3605, way too large to consider sending to a phone even if the file size is smaller after Cloudinary does it's thing.
+<img
+   data-src="https://res.cloudinary.com/paulportfolio/image/upload/w_auto,c_scale,q_auto,f_auto,dpr_auto/v1592493970/11ty/ferrari-pista-3.jpg"
+alt=""
+class="cld-responsive" />
+
+<img
+   data-src="https://res.cloudinary.com/paulportfolio/image/upload/w_auto,c_scale,q_auto,f_auto,dpr_auto/v1592494095/11ty/ImageInfo.png"
+alt=""
+class="cld-responsive" />
+
+Next is the same picture sent to an iPhone.
+
+
+
+
 Now, this is all for nothing if the user turns off javascript. Thankfully most users keep it turned on. My site is not prepared for that scenario, because that requires me to think more, and deep down I think you're an animal for not leaving javascript on, haha
