@@ -43,6 +43,12 @@ class="cld-responsive" />
 
 Next is the same picture sent to an iPhone.
 
+<img
+   data-src="https://res.cloudinary.com/paulportfolio/image/upload/w_auto,c_scale,q_auto,f_auto,dpr_auto/v1592495043/11ty/IMG_1115.png"
+alt=""
+class="cld-responsive" />
+
+It is still a little large, 1200x872, but not too bad. So you see how this works and without saving multiple versions of the file at different sizes.
 
 
 
