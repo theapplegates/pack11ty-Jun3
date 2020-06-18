@@ -45,7 +45,10 @@ Cloudinary delivered a 2200x1599 1.1MB webp image to the computer. That too is p
 
 Next is the same picture saved from an iPhone.
 
-
+<img
+data-src="https://res.cloudinary.com/paulportfolio/image/upload/w_auto,c_scale,q_auto,f_auto,dpr_auto/v1592495043/11ty/IMG_1115.png"
+alt=""
+class="cld-responsive" />
 
 
 
