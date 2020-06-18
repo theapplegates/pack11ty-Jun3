@@ -22,7 +22,7 @@ Age Public Key
 
 <pre><code>public key: age19eyljfzyhly22spyjnmw6u0zpemz62e95625umgxmp3ft27zs4esgmh90a</code></pre>
 
-![](https://res.cloudinary.com/paulportfolio/image/upload/Signature/Paul-Applegate-blog-maybe-last.png)
+![](https://res.cloudinary.com/paulportfolio/image/upload/v1575916808/Signature/Paul-Applegate-blog-maybe-last.png)
 
 One last test. I promise.
 
