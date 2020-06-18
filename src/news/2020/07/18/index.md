@@ -41,15 +41,13 @@ class="cld-responsive" />
 alt=""
 class="cld-responsive" />
 
-Next is the same picture sent to an iPhone.
+Cloudinary delivered a 2200x1599 1.1MB webp image to the computer. That too is pretty good. Ideally people will upload images smaller than 3MB and 4961x3605, so the examples I gave would be even better if I uploaded a 1MB file and smaller dimensions.
 
-<img
-   data-src="https://res.cloudinary.com/paulportfolio/image/upload/w_auto,c_scale,q_auto,f_auto,dpr_auto/v1592495043/11ty/IMG_1115.png"
-alt=""
-class="cld-responsive" />
-
-It is still a little large, 1200x872, but not too bad. So you see how this works and without saving multiple versions of the file at different sizes.
+Next is the same picture saved from an iPhone.
 
 
 
-Now, this is all for nothing if the user turns off javascript. Thankfully most users keep it turned on. My site is not prepared for that scenario, because that requires me to think more, and deep down I think you're an animal for not leaving javascript on, haha
+
+
+
+Now, this is all for nothing if the user turns off javascript. Thankfully most users keep it turned on. My site is not prepared for that scenario, because that requires me to think more, and deep down I think you're an animal for not leaving javascript on, :-)
